@@ -1,0 +1,39 @@
+ .header-container{
+    /* display: grid;
+    grid-template-columns: 50% 50%;
+    font-weight: 100; */
+    background-color:#071d41 ;
+    /* height: 45px;*/
+    align-items: center; 
+}
+
+/* @media (min-width:2100px){
+    .header-container{
+        width: fit-content;
+        display: grid;
+        grid-template-columns: 50% 50%;
+        font-weight: 100;
+        background-color:#071d41 ;
+        height: 45px;
+        align-items: center;
+    }
+}
+
+.header-title{
+    color: white;
+    padding-left: 10%;
+    font-size: 20px;
+
+}
+
+.header-links{
+    right: 10px;
+    padding-right: 10%;
+}
+
+.header-links a {
+    color: white;
+    text-decoration: none;
+    float: right;
+    margin-right: 5%;
+} */ 
